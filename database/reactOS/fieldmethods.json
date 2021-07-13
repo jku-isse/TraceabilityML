@@ -1,0 +1,5 @@
+[{"id":1, "fieldaccess":"value", "fieldtypeclassid":153, "fieldtypeclassname":"Variant", "ownerclassname":"WebChildWindow", "ownerclassid":179, "ownermethodname":"WebChildWindow::PropertyChange", "ownermethodid":"634", "fieldclasses":{}},
+{"id":2, "fieldaccess":"subfolder", "fieldtypeclassid":26, "fieldtypeclassname":"ShellFolder", "ownerclassname":"ShellDirectory", "ownerclassid":130, "ownermethodname":"ShellDirectory::ShellDirectory", "ownermethodid":"482", "fieldclasses":{}},
+{"id":3, "fieldaccess":"canvas", "fieldtypeclassid":177, "fieldtypeclassname":"PaintCanvas", "ownerclassname":"ExplorerAboutDlg", "ownerclassid":92, "ownermethodname":"ExplorerAboutDlg::Paint", "ownermethodid":"198", "fieldclasses":{}},
+{"id":4, "fieldaccess":"ver_txt", "fieldtypeclassid":127, "fieldtypeclassname":"FmtString", "ownerclassname":"ExplorerAboutDlg", "ownerclassid":92, "ownermethodname":"ExplorerAboutDlg::ExplorerAboutDlg", "ownermethodid":"197", "fieldclasses":{}},
+{"id":5, "fieldaccess":"lock", "fieldtypeclassid":181, "fieldtypeclassname":"Lock", "ownerclassname":"Thread", "ownerclassid":182, "ownermethodname":"Thread::Stop", "ownermethodid":"568", "fieldclasses":{}}]
